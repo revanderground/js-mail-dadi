@@ -1,5 +1,5 @@
-const aiNumber = Math.floor((Math.random()*5)+1);
-const userNumber = Math.floor((Math.random()*5)+1);
+const aiNumber = Math.floor((Math.random()*6)+1);
+const userNumber = Math.floor((Math.random()*6)+1);
 
 console.log(`il tuo punteggio è ${userNumber}`);
 console.log(`il punteggio del computer è ${aiNumber}`);
